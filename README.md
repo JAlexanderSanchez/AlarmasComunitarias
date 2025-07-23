@@ -1,2 +1,2 @@
 # AlarmasComunitarias
-# Ingresar a Master
+En Switch branches seleccionar Master
